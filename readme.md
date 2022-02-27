@@ -35,13 +35,18 @@ There is no correlation between duration length and duration hour. Two peaks I o
 
  I decided to present these key insights listed accordingly:
 
-- When are most trips taken in terms of time of day and day of the week?
+- When are most trips taken in weekdays?
+
 - How long does the average trip take?
-- What is the portion of subscribers?
+
+- What is the proportion of subscribers?
+
 - What is the gender distribution for renting GoBikes?
+
 - What age group rides bikes the most?
-- Is there any relation between user type and starting hour of duration?
-- Is there any relation between gender, the day of duration and user type?
-- Is there any relation between user type, duration length?
+
+- Is there any relation between the day of trip and user type based on gender?
+
+- Is there any relation between user type, duration length and the day of trip based on gender?
 
 The reason why I chose these specific questions from the findings is that these visualizasions are good indicators for my main interests I mentioned in the dataset section above.
