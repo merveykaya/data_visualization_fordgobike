@@ -3,10 +3,10 @@ readme.md
 # Communicate Data Findings : Ford GoBike Data
 
 # Table of Contents
--Introduction
+- Introduction
 - Dataset
--Summary of Findings 
--Key Insights for Presentation
+- Summary of Findings 
+- Key Insights for Presentation
 
 ## Introduction
 
